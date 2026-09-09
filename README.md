@@ -23,10 +23,5 @@ Vamos montar um circuito simples com Arduino, LED e resistor. Em seguida, vamos 
 
 ## 🔌 Circuito do Projeto
 
-<div align="center">
-
-<img src="./imagens/circuito.png" width="700px">
-
-</div>
 
 
