@@ -22,6 +22,9 @@ Vamos montar um circuito simples com Arduino, LED e resistor. Em seguida, vamos 
 | Cabo USB | 1 |
 
 ## 🔌 Circuito do Projeto
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/JhulyThaynara/aula_arduino/4bb5f6987b84ff62abe89026a3f4ab8c5889be5b/Captura%20de%20tela%202026-09-07%20194902.png" width="700">
 
+</div>
 
