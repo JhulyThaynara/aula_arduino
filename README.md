@@ -21,5 +21,12 @@ Vamos montar um circuito simples com Arduino, LED e resistor. Em seguida, vamos 
 | Jumpers | 3 |
 | Cabo USB | 1 |
 
-![Circuito do Projeto](./imagens/circuito.png)
+## 🔌 Circuito do Projeto
+
+<div align="center">
+
+<img src="./imagens/circuito.png" width="700px">
+
+</div>
+
 
